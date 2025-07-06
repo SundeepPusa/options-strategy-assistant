@@ -19,4 +19,4 @@ if __name__ == "__main__":
     # Use the PORT provided by Render, or default to 8050 for local testing
     port = int(os.environ.get("PORT", 8050))
     # Run the Dash server on 0.0.0.0 to accept external traffic
-    app.run_server(host="0.0.0.0", port=port)
+    app.run(host="0.0.0.0", port=port)
