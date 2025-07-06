@@ -8,3 +8,4 @@ yfinance
 py_vollib
 ta
 pandas-ta
+gunicorn
