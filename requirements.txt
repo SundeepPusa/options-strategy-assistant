@@ -1,0 +1,10 @@
+dash
+plotly
+pandas
+numpy
+requests
+beautifulsoup4
+yfinance
+py_vollib
+ta
+pandas-ta

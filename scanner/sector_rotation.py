@@ -1,0 +1,1 @@
+# Sector rotation logic (placeholder)
